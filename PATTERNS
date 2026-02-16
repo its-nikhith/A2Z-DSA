@@ -406,5 +406,37 @@ public class Patterns14 {
 
 Q15.
 
+ABCDE
+
+ABCD
+
+ABC
+
+AB
+
+A
+
+public class Patterns15 {
+     public static void main(String[] args) {
+        int n=5;
+        for(int i=1;i<=n;i++){
+            char val='A';
+            for(int j=i;j<=n;j++){
+                System.out.print(val );
+                val++;
+            
+            }
+            System.out.println(" ");
+        }
+    }
+}
+
+
+Q16.
+
+
+
+Q15.
+
 
 
