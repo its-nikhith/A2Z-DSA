@@ -459,8 +459,79 @@ public class Patterns16 {
     }
 }
 
-
 Q17.
+
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+
+
+public class Patternn17 {
+     public static void main(String[] args) {
+        int n=5;
+  
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n-i-1;j++){
+                System.out.print(" ");
+            }
+            char val='A';
+            for(int k=0;k<=i;k++){
+                System.out.print(val);
+                val++;
+            
+            }
+            val=(char)(val-2); 
+            for(int j=0;j<i;j++){
+                System.out.print(val);
+                val--;
+            }
+            System.out.println();
+        }
+         
+      
+    }
+}
+
+Q18.
+
+E 
+
+D E 
+
+C D E 
+
+B C D E 
+
+A B C D E
+
+
+public class Patternn18 {
+     public static void main(String[] args) {
+        int n=5;
+
+
+        char val=65;
+        val+=n-1;
+        char temp=val;
+        for(int i=0;i<n;i++){   ;
+            val+=n-i;
+            char temp2=temp;
+            for(int j=1;j<=i;j++){
+                System.out.print(temp2);
+                temp2++;
+            }
+              System.out.println();
+              temp--;
+            }
+            
+        }     
+    }
+
+
+Q19.
+
 
 
 
