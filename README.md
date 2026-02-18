@@ -25,3 +25,8 @@ I am maintaining this repo to:
 |----|------|--------|
 | Day 1 | Patterns | ✅ Solved |
 | Day 2 | Patterns | ✅ Solved |
+| Day 3 | Patterns | ✅ Solved |
+| Day 4 | Patterns | ✅ Solved |
+| Day 5 | Patterns | ✅ Solved |
+| Day 6 | Patterns | ✅ Solved |
+| Day 7 | Patterns | ✅ Solved |
