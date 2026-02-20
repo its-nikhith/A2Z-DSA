@@ -30,3 +30,5 @@ I am maintaining this repo to:
 | Day 5 | Patterns | ✅ Solved |
 | Day 6 | Patterns | ✅ Solved |
 | Day 7 | Patterns | ✅ Solved |
+| Day 8 | Java Collections | ✅ Solved |
+| Day 9 | Numeric Problems | ✅ Solved |
