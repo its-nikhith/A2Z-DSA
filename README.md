@@ -33,3 +33,5 @@ I am maintaining this repo to:
 | Day 8 | Java Collections | ✅ Solved |
 | Day 9 | Numeric Problems | ✅ Solved |
 | Day 10 | Numeric Problems | ✅ Solved |
+| Day 11 | Numeric Problems | ✅ Solved |
+| Day 12 | Numeric Problems | ✅ Solved |
