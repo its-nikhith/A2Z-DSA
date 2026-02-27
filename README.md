@@ -37,3 +37,4 @@ I am maintaining this repo to:
 | Day 12 | Numeric Problems | ✅ Solved |
 | Day 13 | Numeric Problems | ✅ Solved |
 | Day 14 | Numeric Problems | ✅ Solved |
+| Day 15 | Numeric Problems | ✅ Solved |
