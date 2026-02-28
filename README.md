@@ -38,3 +38,4 @@ I am maintaining this repo to:
 | Day 13 | Numeric Problems | ✅ Solved |
 | Day 14 | Numeric Problems | ✅ Solved |
 | Day 15 | Numeric Problems | ✅ Solved |
+| Day 16 | Numeric Problems | ✅ Solved |
