@@ -39,3 +39,4 @@ I am maintaining this repo to:
 | Day 14 | Numeric Problems | ✅ Solved |
 | Day 15 | Numeric Problems | ✅ Solved |
 | Day 16 | Numeric Problems | ✅ Solved |
+| Day 17 | Numeric Problems | ✅ Solved |
