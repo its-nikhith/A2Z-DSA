@@ -1,4 +1,4 @@
-Q.Find Maximum Element.
+1.Find Maximum Element.
   
 pack.age com.dsa;
 
@@ -16,7 +16,7 @@ public class LargestValue {
 	}
 }
 
-Q. Find Minimum Element.
+2. Find Minimum Element.
 package com.dsa;
 
 public class SmallerValue {
@@ -32,3 +32,51 @@ public class SmallerValue {
 		System.out.println(min);
 	}
 }
+
+3.Traverse an array
+
+
+class Main {
+    public static void main(String[] args){
+        int[] arr= {10,20,15,25};
+        for(int i=0;i<arr.length;i++){
+            System.out.println(arr[i]);
+            
+        }
+    }
+}
+
+4.Find Maximum Element
+
+class Main {
+    public static void main(String[] args){
+        int[] arr= {10,20,15,25};
+        int max=arr[0];
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]>max){
+                max=arr[i];
+            }
+        }
+        System.out.println(max);
+    }
+}
+
+5.Min Element
+
+class Main {
+    public static void main(String[] args){
+        int[] arr= {10,20,15,25};
+        int min=arr[0];
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]<min){
+                max=arr[i];
+            }
+        }
+        System.out.println(min);
+    }
+}
+
+6.
+
+											
+
