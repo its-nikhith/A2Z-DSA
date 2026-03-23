@@ -76,7 +76,67 @@ class Main {
     }
 }
 
-6.
+6.Linear search
+
+class Main {
+    public static void main(String[] args){
+        int val=15;
+        int[] arr= {10,20,15,25};
+        for(int i=1;i<arr.length;i++){
+            if(arr[i]==val){
+                System.out.println("Values at index " + i );
+            }
+        }
+        
+    }
+}
+
+7.Reverse an Array
+
+Brute fore methof (extra array ):
+
+class Main {
+    public static void main(String[] args){
+        int[] arr= {10,20,15,25};
+        int[] arr2=new int [arr.length];
+        int count =0;
+        for(int i=arr.length-1; i>=0 ;i--){
+            arr2[count]=arr[i];
+            count++;
+        }
+        for(int i=0; i< arr.length ;i++){
+             System.out.println(arr2[i]);
+        }
+    }
+}
+
+Two Pointer method:
+
+class Main {
+    public static void main(String[] args){
+        int[] arr={10,15,20,15};
+        int left=0;
+        int right=arr.length-1;
+        int temp;
+        while(left<right){
+            temp =arr[left];
+            arr[left]=arr[right];
+            arr[right]=temp;
+            
+            left++;
+            right--;
+        }
+        for(int i=0;i<arr.length;i++){
+            System.out.println(arr[i]);
+        }
+    }
+}
+
+8.
+
+
+
+
 
 											
 
